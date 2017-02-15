@@ -1,0 +1,5 @@
+deepin-screen-recorder (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Deepin Packages Builder <packages@deepin.com>  Mon, 13 Feb 2017 16:32:34 +0800
